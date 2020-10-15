@@ -11,34 +11,7 @@ My interests range from academic topics like, Reinforcement Learning, Computatio
 - Speech and Language Technology Lab, [Saarthi.ai](https://saarthi.ai/) with [Vishwanath Jha](https://www.linkedin.com/in/vishwanathjha1/) and [Akash Singh](https://www.linkedin.com/in/akashsingh58/)
 - Pattern Recognition and Image Analysis Lab, Discipline of Electrical Engineering, IIT Indore with [Dr. Vivek Kanhangad](http://www.iiti.ac.in/people/~kvivek/)
 
-## 🌱 Skills
-
-**Machine Learning:**
-
-- Natural Language Processing in Conversational AI
-- Pattern Recognition in Biometrics
-- Deep Learning using PyTorch
-
-**Programming:**
-
-- Python3
-- C++, C
-
-**Web Development:**
-
-- HTML5
-- CSS3, Bootstrap
-- Jekyll
-
-**Utilities:**
-- SQL
-- Git VCS
-- AWS
-- Latex
-- Bash Scripting
-- cmd
-- Adobe Photoshop
-- Adobe Lightroom
+### 💬  Blog at [Medium](https://medium.com/@anubhav4sachan) & [anubhavsachan.com/blog](https://anubhavsachan.com/blog/)
 
 ## 📫 Get in touch
 - Website: https://anubhavsachan.com/
