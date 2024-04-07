@@ -1,10 +1,10 @@
 #### Learning with experience replay 🌟
 
 # Anubhav Sachan —@anubhav4sachan
-Hi there, I'm Anubhav — a (Software Research) Engineer at Samsung R&D Institute India - Delhi.
+Hi there, I'm Anubhav!
 
 ## 🔭 Technical Experience
-- (Software Research) Engineer at [Samsung R&D Institute India - Delhi](https://research.samsung.com/sri-d)
+- Lead (Research) Engineer (SDE II) at [Samsung R&D Institute India - Delhi](https://research.samsung.com/sri-d)
 - [NVIDIA](https://www.nvidia.com/en-in/) with [Jigar Halani](https://www.linkedin.com/in/jigarhalani/) and [Sunil Patel](https://www.linkedin.com/in/linus1/)
 - Speech and Language Technology Lab, [Saarthi.ai](https://saarthi.ai/) with [Vishwanath Jha](https://www.linkedin.com/in/vishwanathjha1/) and [Akash Singh](https://www.linkedin.com/in/akashsingh58/)
 - Pattern Recognition and Image Analysis Lab, Discipline of Electrical Engineering, IIT Indore with [Dr. Vivek Kanhangad](http://www.iiti.ac.in/people/~kvivek/)
